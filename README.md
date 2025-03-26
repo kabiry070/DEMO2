@@ -3,9 +3,10 @@
   <HEAD>
     <BODY>
      <H1>GPT HUBLI</H1>
+      <H7>GOVERNMENT POLYTECHNIC</H7>
       
-     KING.JPG
-
+      C:\Users\cs\Pictures
+      
     </BODY>
   </HEAD>
 </HTML>
